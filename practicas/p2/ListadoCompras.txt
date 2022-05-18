@@ -1,0 +1,65 @@
+10
+3
+Escarola 1581 2.32102
+Patata 1561 1.64376
+Lechuga 1155 3.56258
+5
+Berenjena 621 1.18148
+Remolacha 1428 1.41689
+Fresas 348 1.57245
+Aguacate 1724 3.98068
+Guisantes 1623 2.28162
+2
+Calabacin 1531 1.90108
+Guisantes 1087 3.08006
+8
+Higos 1932 2.56244
+Aguacate 578 2.16694
+Espinacas 1510 2.21332
+Guisantes 1808 1.44862
+Berenjena 125 2.84496
+Ciruelas 968 3.35766
+Pepino 637 3.19518
+Kiwi 1805 1.63515
+8
+Aguacate 172 2.80514
+Calabacin 1539 1.6565
+Limon 1360 2.68811
+Escarola 1087 1.63452
+Brocoli 942 2.87064
+Guisantes 957 2.94634
+Kiwi 1989 3.82914
+Manzana 1382 1.91611
+5
+Puerro 439 3.04972
+Kiwi 1464 2.19418
+Lechuga 143 2.78961
+Coliflor 1425 2.13749
+Platano 1228 3.33278
+6
+Boniato 1283 1.27248
+Guisantes 326 1.0716
+Uva 147 3.89364
+Acelgas 485 1.7685
+Sandia 610 3.94766
+Calabaza 696 2.87153
+4
+Alcachofas 1367 2.86137
+Puerro 1046 3.2677
+Guisantes 1395 1.48594
+Aguacate 1792 3.34362
+6
+Manzana 1192 2.29667
+Mandarina 880 2.97079
+Boniato 565 1.52737
+Mandarina 1371 1.44591
+Cerezas 285 2.87099
+Cerezas 308 1.81951
+7
+Pepino 868 3.24491
+Granada 1955 3.89153
+Aguacate 1068 1.59922
+Acelgas 855 2.6526
+Nispero 1061 3.15425
+Kiwi 384 2.88745
+Lechuga 1223 1.62038

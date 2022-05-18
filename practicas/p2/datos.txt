@@ -1,0 +1,11 @@
+10
+Cerezas 345 2.55
+Naranja 1380 1.10
+Kiwi 876 1.8
+Pera 1150 2.0
+Platano 890 1.19
+Melon 3500 1.5
+Uva 530 2.10
+Mango 456 2.5
+Manzana 750 1.69
+Limon 275 1.19

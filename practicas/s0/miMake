@@ -1,0 +1,34 @@
+BIN = ./bin 
+INCLUDE = ./include 
+LIB = ./lib 
+OBJ = ./obj 
+SRC = ./src
+
+#########################################################
+
+all : $(BIN)/demo2
+
+clean : 
+	rm $ (OBJ)/*.o
+	rm $ (BIN)/*
+	rm $ (LIB)/*.a
+
+#########################################################
+	
+	
+$(BIN)/demo2 : $(OBJ)/demo2.o $(LIB)/liboper2.a
+	@echo "generando ejecutable demo2"
+	g++ -o $(BIN)/demo2 $(OBJ)/demo2.o -L$(LIB) -loper2
+	
+$(OBJ)/demo2.o : $(SRC)/demo2.cpp $(INCLUDE)/oper2.h 
+	@echo "generando código objeto demo2"
+	g++ -c -I$(INCLUDE) -o $(OBJ)/demo2.o $(SRC)/demo2.cpp
+
+$(OBJ)/oper2.o : $(SRC)/oper2.cpp $(INCLUDE)/oper2.h 
+	echo "generando código objeto oper2"
+	g++ -c -I$(INCLUDE) -o $(OBJ)/oper2.o $(SRC)/oper2.cpp
+
+$(LIB)/liboper2.a : $(OBJ)/oper2.o
+	echo "construyendo libreria liboper2"
+	ar rvs $(LIB)/liboper2.a $(OBJ)/oper2.o
+	
